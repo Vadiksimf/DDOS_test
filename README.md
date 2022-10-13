@@ -1,6 +1,6 @@
 # DDOS_test
 
-## Linux simpli crash test
+## Linux simple crash test
 
 n — amount of requests, с — amount of simultaneous requests.
 ```
